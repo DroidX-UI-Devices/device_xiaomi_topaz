@@ -1,3 +1,6 @@
+# Maintainer
+ro.droidx.maintainer=RyzenForce
+
 # Battery Saving
 ro.vendor.use_data_netmgrd=true 
 ro.vold.umsdirtyratio=20 
