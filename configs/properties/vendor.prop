@@ -3,3 +3,8 @@ ro.hardware.fp.sideCap=true
 
 # WLAN
 ro.hardware.wlan.chip=wcn3950
+
+# DroidX-UI props
+ro.droidx.maintainer=itzParsaYC
+ro.droidx.chipset=Snapdragon 685 
+ro.droidx.display_resolution=6.67" AMOLED 1080x2400
