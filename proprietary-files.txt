@@ -13,6 +13,9 @@ vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__2.2.0_0.1__3.0.0_0.0__eai_1.00.pmd
 vendor/etc/acdbdata/nn_vad_models/fai_3.0.0_0.0_eai_1.00.pmd
 
+#SMS
+vendor/lib64/libqcrilNrSmsModule.so|eec750187d50e0c6df179d10bd656ee026259f86
+
 # ADSP
 vendor/bin/adsprpcd
 vendor/bin/audioadsprpcd
